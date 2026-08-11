@@ -1,0 +1,6 @@
+{
+  "name": "NexusCommerce",
+  "description": "A high-performance e-commerce platform and enterprise management admin console with catalog browsing, interactive analytics, order tracking, and product management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
